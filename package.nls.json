@@ -1,0 +1,7 @@
+{
+    "displayName":"OneNote Theme",
+    "description":"Microsoft OneNote Theme for Visual Studio Code",
+
+    "OneNoteDark":"OneNote Theme (Dark)",
+    "OneNoteLight":"OneNote Theme (Light)"
+}

@@ -1,0 +1,40 @@
+{
+    "name":"theme-onenote",
+    "displayName":"%displayName%",
+    "description":"%description%",
+    "categories":["Themes"],
+    "version":"1.0.0",
+    "publisher":"BisnetoInc",
+    "icon": "assets/icon.png",
+    "license":"MIT",
+    
+    "engines":
+    {
+        "vscode":"*"
+    },
+    
+    "contributes":
+    {
+        "themes":
+        [
+            {
+                "id":"OneNote (Dark)",
+                "label":"%OneNoteDark%",
+                "uiTheme":"vs-dark",
+                "path":"./themes/Dark/onenote-theme-dark.json"
+            },
+            {
+                "id":"OneNote (Light)",
+                "label":"%OneNoteLight%",
+                "uiTheme":"vs",
+                "path":"./themes/Light/onenote-theme-light.json"
+            }
+        ]
+    },
+    
+    "repository":
+    {
+        "type":"git",
+        "url":"https://github.com/hbisneto/onenote-theme.git"
+    }
+}
