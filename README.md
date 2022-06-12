@@ -2,7 +2,7 @@
 
 OneNote theme brings Microsoft OneNote to Visual Studio Code.
 
-![Teams for Visual Studio Code](https://raw.githubusercontent.com/hbisneto/hbisneto.github.io/main/onenote-theme/banner.png)
+![OneNote for Visual Studio Code](https://raw.githubusercontent.com/hbisneto/hbisneto.github.io/main/onenote-theme/banner.png)
 
 ## Available Themes
 
