@@ -27,26 +27,34 @@
 		"editorCursor.foreground": "#FFFFFF",
 		"editor.foreground": "#FFFFFF",
 		"editorWhitespace.foreground": "#C4C4C4",
-		"editor.selectionBackground": "#ADD6FF20",
+		// "editor.selectionBackground": "#ADD6FF20",
 		"minimap.selectionHighlight": "#7624a7",
 		"editorLineNumber.foreground": "#C4C4C4",
 		"editorLineNumber.activeForeground": "#7624a7",
 		"editorWidget.background": "#141414",
-		"editorHoverWidget.background": "#454545",
 		"editorSuggestWidget.background": "#000",
 		"editorSuggestWidget.border": "#000",
 		"editor.lineHighlightBackground": "#1F1F1F",
 		"editor.lineHighlightBorder": "#FFFFFF80",
-		"editor.hoverHighlightBackground": "#656565",
-		"editor.selectionHighlightBackground": "#656565",
-		"editorLink.activeForeground": "#7624a7",
-		"peekViewTitle.background": "#7624a7",
+		// "editorHoverWidget.background": "#454545",
+		// "editor.hoverHighlightBackground": "#656565",
+		// "editor.selectionHighlightBackground": "#656565",
+		// "editorLink.activeForeground": "#7624a7",
+		// "peekViewTitle.background": "#7624a7",
 		"peekView.border": "#000",
 		"peekViewResult.background": "#141414",
 		"peekViewEditor.background": "#000",
 		"editorIndentGuide.background":"#ca64ea",
 		"editorIndentGuide.activeBackground":"#FFF",
 		"debugToolBar.background": "#7624a7",
+
+		"editorHoverWidget.background": "#7624a7", // Hover Background #454545
+		"editor.hoverHighlightBackground": "#7624a7", // HOVER BG #656565
+		"editorLink.activeForeground": "#0597dd", //link color
+		"editor.selectionBackground": "#7624a780", // Selection #ADD6FF20
+		"editor.selectionHighlightBackground": "#65656580", // SELECTION BG #656565
+
+
 		"focusBorder": "#FFF",
 		"button.background": "#7624a7",
 		"dropdown.background": "#242424",
