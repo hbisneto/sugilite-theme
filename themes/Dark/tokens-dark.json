@@ -1,6 +1,6 @@
 {
 	"$schema": "vscode://schemas/color-theme",
-	"name": "OneNote Tokens",
+	"name": "Sugilite Tokens",
 	"colors": {
 		"activityBar.background": "#000",
 		"activityBar.foreground": "#ca64ea",
