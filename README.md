@@ -6,7 +6,7 @@ Found in regions like South Africa, Japan, and Canada, Sugilite is cherished for
 
 <br>
 
-![Sugilite for Visual Studio Code](https://raw.githubusercontent.com/hbisneto/hbisneto.github.io/main/onenote-theme/banner.png)
+![Sugilite for Visual Studio Code](https://raw.githubusercontent.com/hbisneto/sugilite-theme/refs/heads/main/assets/banner.png)
 
 ## Available Themes
 
