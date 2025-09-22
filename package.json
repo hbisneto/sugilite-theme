@@ -3,7 +3,7 @@
     "displayName":"%displayName%",
     "description":"%description%",
     "categories":["Themes"],
-    "version":"1.0.0",
+    "version":"1.1.0",
     "publisher":"BisnetoInc",
     "icon": "assets/icon.png",
     "license":"MIT",
@@ -18,16 +18,16 @@
         "themes":
         [
             {
-                "id":"OneNote (Dark)",
-                "label":"%OneNoteDark%",
+                "id":"Sugilite (Dark)",
+                "label":"%SugiliteDark%",
                 "uiTheme":"vs-dark",
-                "path":"./themes/Dark/onenote-theme-dark.json"
+                "path":"./themes/Dark/sugilite-theme-dark.json"
             },
             {
-                "id":"OneNote (Light)",
-                "label":"%OneNoteLight%",
+                "id":"Sugilite (Light)",
+                "label":"%SugiliteLight%",
                 "uiTheme":"vs",
-                "path":"./themes/Light/onenote-theme-light.json"
+                "path":"./themes/Light/sugilite-theme-light.json"
             }
         ]
     },
@@ -35,6 +35,6 @@
     "repository":
     {
         "type":"git",
-        "url":"https://github.com/hbisneto/onenote-theme.git"
+        "url":"https://github.com/hbisneto/sugilite-theme.git"
     }
 }

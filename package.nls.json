@@ -1,7 +1,7 @@
 {
-    "displayName":"OneNote Theme",
-    "description":"Microsoft OneNote Theme for Visual Studio Code",
+    "displayName":"Sugilite Theme",
+    "description":"Sugilite Theme for Visual Studio Code",
 
-    "OneNoteDark":"OneNote Theme (Dark)",
-    "OneNoteLight":"OneNote Theme (Light)"
+    "SugiliteDark":"Sugilite Theme (Dark)",
+    "SugiliteLight":"Sugilite Theme (Light)"
 }
